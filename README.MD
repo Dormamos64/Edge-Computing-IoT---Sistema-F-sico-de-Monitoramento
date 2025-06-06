@@ -35,6 +35,8 @@ Link do projeto:
 https://wokwi.com/projects/433047030448705537
 -----------------------------------------------
 link do video:
+https://youtu.be/vxK6VQsxNQ4
+-----------------------------------------------
 
 
 Integrantes:
