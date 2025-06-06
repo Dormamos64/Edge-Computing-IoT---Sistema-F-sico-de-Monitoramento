@@ -1,8 +1,10 @@
 ❌Problema:
+
 Com as mudanças climáticas e a urbanização desordenada, o número de alagamentos e enchentes em áreas urbanas tem aumentado consideravelmente. Ruas inundadas, prejuízos materiais e riscos à vida se tornaram mais frequentes. Muitas vezes, a falta de aviso prévio ou sistemas de alerta agrava a situação.
 -----------------------------------------------------------------------------------------------------------------------------
 
 💡Solução proposta: Sistema de Alerta de Inundações com Arduino
+
 Trata-se de um sistema baseado em Arduino que:
 
 Monitora nível da água usando sensor ultrassônico (HC-SR04).
@@ -33,3 +35,10 @@ Link do projeto:
 https://wokwi.com/projects/433047030448705537
 -----------------------------------------------
 link do video:
+
+
+Integrantes:
+
+Gabriel oliveira amaral  Rm:563872
+Gabriel Alexandre Fukushima  Rm:99522
+Rafael Tavares Santos  Rm:563487
